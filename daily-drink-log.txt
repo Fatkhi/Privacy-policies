@@ -1,0 +1,48 @@
+Privacy Policy
+
+Last updated: November 14, 2025
+
+Daily Drink Log (“we,” “us,” or “our”) is committed to protecting your privacy. This Privacy Policy explains how our iOS application handles your information.
+
+1. Information We Collect
+
+We do not collect, store, process, or share any personal data or usage data through our app.
+This includes (but is not limited to):
+
+No personal information
+
+No contact information
+
+No device identifiers
+
+No location data
+
+No usage analytics
+
+No cookies or tracking technologies
+
+No data transmitted to our servers or third-party servers
+
+2. Data Storage
+
+Since we do not collect any information, we do not store any information—either locally on your device or on any external servers.
+
+3. Data Sharing
+
+We do not share any data with third parties because no data is collected in the first place.
+
+4. Third-Party Services
+
+Daily Drink Log does not use any third-party services, SDKs, analytics tools, or advertising networks that collect user data.
+
+5. Children’s Privacy
+
+Daily Drink Log does not collect any personal data from anyone, including children under 13 years of age.
+
+6. Security
+
+While no information is collected or stored, we remain committed to maintaining a secure app environment and adhering to best practices for software development.
+
+7. Changes to This Policy
+
+If our privacy practices change, this Privacy Policy will be updated accordingly. You will be notified of any significant changes within the app or through an updated version release.
