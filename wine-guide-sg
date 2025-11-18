@@ -6,55 +6,92 @@ Wine Guide SF (“we,” “us,” or “our”) is committed to protecting your
 
 1. Information We Collect
 
-We do not collect, store, process, or share any personal data or usage data through our app.
+Wine Guide SF does not collect, store, process, or share any personal data or usage data through our app.
+
 This includes (but is not limited to):
 
 No personal information
 
 No contact information
 
+No account data
+
 No device identifiers
 
-No location data
-
-No usage analytics
+No analytics or usage tracking
 
 No cookies or tracking technologies
 
 No data transmitted to our servers
 
-2. Limited Third-Party API Use
+2. Location Data
+
+Wine Guide SF requests access to your device’s location, but:
+
+Your location is used only on your device
+
+We do not collect, store, or transmit your location to any server
+
+Your location is not shared with any third party
+
+Your location is used solely to show nearby wineries and wind bar locations on the map
+
+Example:
+The app uses your current location to display nearby wineries and wind bar recommendations relative to your position.
+
+Apple requires location permission to display this contextual map information, but Wine Guide SF does not persist or process this data outside of your device.
+
+3. Limited Third-Party API Use (Google Places API)
 
 Wine Guide SF uses the Google Places API exclusively to:
 
 Display winery images
 
-Display wine bar locations
+Display wind bar location information
 
-This integration is read-only and is used solely to retrieve publicly available information from Google’s databases.
-No personal data is sent to Google, and Google Places does not receive any user-identifying information from our app.
+This API is used in a read-only manner to fetch publicly available data.
 
-3. Data Storage
+Importantly:
 
-Since we do not collect any information, we do not store any personal data—either locally on your device or on any external servers.
+We do not send your personal data or location to Google
 
-4. Data Sharing
+Google does not receive any user-identifying information from the app
 
-We do not share any personal data with third parties because we do not collect any data in the first place.
-The only external service used is Google Places, strictly for retrieving non-user-specific content as described above.
+The app retrieves only business/place data (e.g., photos, names, coordinates)
 
-5. Third-Party Services
+4. Data Storage
 
-Aside from the limited use of the Google Places API, Wine Guide SF does not use any third-party services, SDKs, analytics tools, or advertising networks that collect user data.
+Since we do not collect personal information, we do not store any data locally or externally.
 
-6. Children’s Privacy
+All location usage happens in real time on your device and is not recorded.
 
-Wine Guide SF does not collect any personal data from anyone, including children under 13 years of age.
+5. Data Sharing
 
-7. Security
+We do not share any personal data with third parties because we do not collect any personal data.
 
-While no personal information is collected or stored, we remain committed to maintaining a secure app environment and adhering to best practices for software development.
+The only external service accessed is Google Places, and only for public place information as described above.
 
-8. Changes to This Policy
+6. Third-Party Services
 
-If our privacy practices change, this Privacy Policy will be updated accordingly. You will be notified of any significant changes within the app or through an updated version release.
+Aside from the limited use of Google Places API, Wine Guide SF does not use:
+
+Analytics tools
+
+Advertising networks
+
+Data collection SDKs
+
+Tracking frameworks
+
+7. Children’s Privacy
+
+We do not knowingly collect personal data from children under 13.
+Since the app collects no personal information from any user, it remains suitable for all ages.
+
+8. Security
+
+Even though we collect no personal data, we remain committed to secure software practices and minimizing access to protected device resources.
+
+9. Changes to This Policy
+
+If our privacy practices change, this Privacy Policy will be updated. You will be notified of significant changes within the app or through an updated version release.
